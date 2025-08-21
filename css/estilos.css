@@ -77,7 +77,7 @@ main section {
             rgba(0, 0, 0, 0.5),
             rgba(0, 0, 0, 0.5)
         ),
-        url('/imagenes/farmacia-fondo.jpg');
+        url('../imagenes/farmacia-fondo.jpg');
     background-size: cover;
     background-position: center;
     color: white;
